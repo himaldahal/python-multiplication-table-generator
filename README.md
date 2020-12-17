@@ -3,7 +3,7 @@ This is a python 3 Script to Generate Multiplication Table.
 
 This Script Creates Multiplication Table.
 
-It taks Thee Input
+It taks Three Input
 ``` bash
   Start Table from : Write the Starting Table Number eg. 1
 ```
