@@ -12,7 +12,7 @@ It taks Thee Input
   End Table at : 100 : Write the End Table Number eg. 10
 ```
 ``` bash           
-          Enter File Name to save as > FileName eg . Table
+ Enter File Name to save as > FileName eg . Table
 ```
 
 # USING Example
@@ -25,5 +25,4 @@ Enter File Name to save as > table
 Python 3
 
 # Built By
- 
- ## Himal Dagal
+ Himal Dagal
