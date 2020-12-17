@@ -17,8 +17,8 @@ It taks Thee Input
 
 # USING Example
 
-Start Table from : 1
-End Table at : 100
+Start Table from : 1<br>
+End Table at : 100<br>
 Enter File Name to save as > table
 
 # Pre-requisites
